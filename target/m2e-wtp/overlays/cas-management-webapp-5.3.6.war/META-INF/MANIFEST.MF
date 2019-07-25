@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: cas-management-webapp
+Implementation-Version: 5.3.6
+Start-Class: org.apereo.cas.mgmt.web.CasManagementWebApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Implementation-Date: 2018-11-02T10:21:09.858-07:00[America/Los_Angeles
+ ]
+Spring-Boot-Version: 1.5.14.RELEASE
+Created-By: org.apereo.cas
+Specification-Version: 674987af97e500b2c9543b47352be0db3526df4d
+Implementation-Vendor: org.apereo.cas
+Main-Class: org.springframework.boot.loader.WarLauncher
+
